@@ -1,2 +1,2 @@
 # banking_network_analysis
-wig companies
+network analysis of wig companies
